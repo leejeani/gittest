@@ -12,6 +12,7 @@ class ShopApplicationTests {
 		int a = 10;
 		int cc =10;
 		int dd = 100;
+		int xxx;
 	}
 
 }
