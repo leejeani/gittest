@@ -14,6 +14,8 @@ class ShopApplicationTests {
 		int dd = 100;
 		int ww;
 		int xxx;
+		int ee;
+		int rr;
 	}
 
 }
