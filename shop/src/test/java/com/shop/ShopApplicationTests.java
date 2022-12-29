@@ -10,6 +10,7 @@ class ShopApplicationTests {
 	void contextLoads() {
 		int b = 11;
 		int a = 10;
+		int cc =10;
 	}
 
 }
