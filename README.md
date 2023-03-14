@@ -19,6 +19,16 @@ __double underscores__
 
 - - -
 
+<pre>
+<code>
+public class BootSpringBootApplication {
+  public static void main(String[] args) {
+    System.out.println("Hello, Honeymon");
+  }
+
+}
+</code>
+</pre>
 
 
 ![2-1_title](https://github.com/leejeani/javaws/blob/main/ws0306/0309.png)
