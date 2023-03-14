@@ -14,11 +14,11 @@ o	2단계
 	4단계
 
 
-*single asterisks*
-_single underscores_
-**double asterisks**
-__double underscores__
-~~cancelline~~
+*single asterisks*   
+_single underscores_   
+**double asterisks**   
+__double underscores__   
+~~cancelline~~   
 
 
 * * *
