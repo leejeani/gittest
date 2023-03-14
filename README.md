@@ -4,6 +4,16 @@
 2.test
 
 
+* 1단계
+  - 2단계
+    + 3단계
+      + 4단계
+•	1단계
+o	2단계
+	3단계
+	4단계
+
+
 *single asterisks*
 _single underscores_
 **double asterisks**
